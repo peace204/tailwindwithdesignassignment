@@ -1,0 +1,91 @@
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+@import "tailwindcss";
+
+
+
+.showcase{
+    background-image: url('./images/hammocks-with-palm-trees\ 2.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 140vh;
+    position: relative;
+}
+
+.book{
+    position: absolute;
+    right: 50%;
+    bottom: 9%;
+}
+
+.explore{
+    position: absolute;
+    right: 33%;
+    bottom: 9%;
+
+}
+
+.rooms{
+    background-image: url('../src/images/Rectangle\ 39.svg');
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    
+    
+}
+.btn{
+    position: absolute;
+    right: 712px;
+    bottom: 8%;
+}
+
+.btn-2{
+    position: absolute;
+    right: 444px;
+    bottom: 8%;
+}
+
+.btn-3{
+    position: absolute;
+    right: 185px;
+    bottom: 8%;
+}
+
+.shn{
+    background-image: url('./images/Rectangle\ 24.png'), url('./images/Rectangle\ 40.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.helo{
+    background-image: url('./images/Rectangle\ 32\ \(1\).svg');
+    position: relative;
+    height: 450;
+   
+}
+
+.merry{
+    position: absolute;
+    left: 120px;
+    bottom: 20%;
+}
+
+.oliva{
+    position: absolute;
+    left: 600px;
+    bottom: 20%;
+}
+.input{
+    border: white solid 1px;
+    border-radius: 5px;
+}
+
